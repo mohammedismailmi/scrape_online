@@ -1,0 +1,116 @@
+S.H. Shabbeer Basha, Associate Professor, SoCSE, RV University, Bangalore.  Contact number: +91-9492291508, email: shabbeerb@rvu.edu.in.  Linked in profile with 1.8k+ followers.  Information about research interests in machine learning.
+Shabbeer Basha is an Associate Professor at SoCSE, RV University, Bangalore.  Contact information is available.  Active on LinkedIn with a substantial following.  Research interests are in machine learning.
+S.H. Shabbeer Basha, Associate Professor at RV University Bangalore.  Interests in Machine Learning, Computer Vision, Deep Learning, Transfer Learning, Neural Network Compression, Neural Architecture Search, and active learning.
+
+
+Old prompt:
+Hey Browser agent i want you to find the details about this person Shabbeer Basha on all possible website, like linked in, his personal website, twitter, Google scholar and https://arxiv.org/, and give me a Short summary and intro about him and then his education qualifications and after that i want to get to know what tools and tech does he know and his work experience. Give me atleast 4-5 paras about him. For each website, open a new tab, do not do it one tab only. The content must not be messed up, in the json format, first key will be linked in and then other key will be other source.
+this is how the output format should be, and no restrictions on token limits:
+{
+  "name": "Mohammed Ismail",
+  "designation": "AI/ML Intern",
+  "company": "Zodopt Technology Solutions Pvt. Ltd.",
+  "location": "Bengaluru, Karnataka, India",
+  "email": "ismail@example.com",
+  "phone": "+91-9876543210",
+  "linkedin": "https://www.linkedin.com/in/mohammedismail",
+  "education": [
+    {
+      "degree": "B.Tech (Hons.) in Computer Science and Engineering",
+      "institution": "RV University",
+      "duration": "2022 – 2026"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI/ML Intern",
+      "company": "Zodopt Technology Solutions Pvt. Ltd.",
+      "duration": "June 2025 – July 2025",
+      "location": "Remote",
+      "description": "Worked on real-world AI/ML projects focusing on model deployment and research in agentic AI and computer vision."
+    },
+    {
+      "role": "Computer Vision Intern",
+      "company": "Toyota Kirloskar Auto Parts",
+      "duration": "January 2025 – February 2025",
+      "location": "Bidadi, Karnataka",
+      "description": "Developed a defect detection system using image processing and classical ML techniques."
+    }
+  ],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Computer Vision",
+    "ROS 2",
+    "Agentic AI",
+    "Data Analysis",
+    "Docker",
+    "Flask",
+    "Git"
+  ],
+  "projects": [
+    {
+      "title": "F1 Predictor",
+      "description": "Developed a machine learning pipeline using FastF1 API and DeepSeek models to predict Formula 1 race outcomes. Built using Streamlit for real-time predictions."
+    },
+    {
+      "title": "Satellite Image Interpolation",
+      "description": "Implemented a system to interpolate 30-minute interval satellite images using OpenCV and CNNs for smoother weather visualizations."
+    }
+  ],
+  "interests": [
+    "Research in Agentic AI",
+    "Computer Vision",
+    "Autonomous Systems",
+    "Data Science",
+    "Open Source"
+  ]
+}
+
+
+.....
+new:
+Hey Browser agent , first log in into google.com using these credentials:
+e-mail: 17muezza@gmail.com
+password: Muezza@1454
+i want you to find the details about this person Shabber Basha  on linkedin, login into linkeding using google and give me a Short summary and intro about him and then his education qualifications and after that i want to get to know what tools and tech does he know and his work experience
+
+.....
+Hey Browser agent , first to go  google.com then sign in using these credentials:
+e-mail: 17muezza@gmail.com, click on next and then enter
+password: Muezza@1454
+then go to linkin.com, then sign in / login by clicking on "continue with Google" then then 
+i want you to find the details about this person Shabber Basha  on linkedin, login into linkeding using google and give me a Short summary and intro about him and then his education qualifications and after that i want to get to know what tools and tech does he know and his work experience
+
+
+.....
+
+go to 'google.com'
+click on "sign in"
+enter '17muezza@gmail.com' 
+click on next, then
+enter 'Muezza@1454' in 'Password'
+click on next
+and wait for the next page to open
+and then open google.com 
+then go to 'linkedin.com'
+click on "Continue with Google"
+Then i want you to find the details about this person Shabber Basha  on linkedin, give me a Short summary and intro about him and then his education qualifications and after that i want to get to know what tools and tech does he know and his work experience
+
+- Perform the sign in task first then wait, then go to linkedin, and then again if it asks for log in, click on Continue as Muezza
+
+
+
+
+go to 'google.com'
+click on "sign in"
+enter '17muezza@gmail.com' 
+click on next, then
+enter 'Muezza@1454' in 'Password'
+click on next
+and wait for 30 seconds and then open google.com 
+then go to 'linkedin.com'
+click on "Continue with Google"
+Then i want you to find the details about this person Shabber Basha  on linkedin, give me a Short summary and intro about him and then his education qualifications and after that i want to get to know what tools and tech does he know and his work experience
+
+Perform the sign in task first and then wait for 30 seconds , then go to linkedin, and then again if it asks for log in, click on Continue as Muezza
